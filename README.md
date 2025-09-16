@@ -1,6 +1,6 @@
 # Mathematics for Machine Learning and Data Science Specialization - Coursera
 
-![title-banner](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera/assets/77543865/42742826-89a3-41c4-aa6a-6d0f83b260b6)
+![title-banner](https://github.com/LongNk0702/Mathematics-for-ML-and-DS/blob/main/Mathematics%20for%20ML-DS%20Specialization%20Course.jpg)
 
 Mathematics for Machine Learning and Data Science Specialization offered by deeplearning.ai , instructed by Luis Serrano on Coursera.
 
@@ -12,38 +12,37 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-- [Week 1](/C1/w1/)
-  - [Ungraded Lab - Introduction To Numpy Arrays](/C1/w1/lab/C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb)
-  - [Ungraded Lab - Solving Linear Systems : 2 Variables](/C1/w1/lab/C1_W1_Lab_2_solving_linear_systems_2_variables.ipynb)
-  - [Practice Quiz - Solving Systems of Linear Equations](/C1/w1/pq1/)
-  - [Graded Quiz - Matrices](/C1/w1/q1/)
-  - [Lecture Materials](/C1/w1/C1w1notes.pdf)
+- [Week 1]
+  - [Ungraded Lab - Introduction To Numpy Arrays](/C1-Linear-Algebra/Labs/C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb)
+  - [Ungraded Lab - Solving Linear Systems : 2 Variables](/C1-Linear-Algebra/Labs/C1_W1_Lab_2_linear_systems_as_matrices.ipynb)
+  - [Practice Quiz - Solving Systems of Linear Equations]
+  - [Graded Quiz - Matrices]
+  - [Lecture Materials](/C1-Linear-Algebra/Slides/C1_W1.pdf)
 
 <br/>
 
-- [Week 2](/C1/w2/)
-  - [Ungraded Lab - Solving Linear Systems : 3 Variables](/C1/w2/C1w2_ungraded_lab.ipynb)
-  - [Graded Quiz - The Rank of a Matrix](/C1/w2/q1/)
-  - [Programming Assignment - System of Linear Equations](/C1/w2/C1w2_graded_lab/)
-  - [Lecture Materials](/C1/w2/C1w2notes.pdf)
+- [Week 2]
+  - [Ungraded Lab - Solving Linear Systems : 3 Variables](/C1-Linear-Algebra/Labs/C1_W2_UGL_solving_linear_systems_3_variables.ipynb)
+  - [Graded Quiz - The Rank of a Matrix]
+  - [Programming Assignment - System of Linear Equations](/C1-Linear-Algebra/Labs/C1_W2_Assignment.ipynb)
+  - [Lecture Materials](/C1-Linear-Algebra/Slides/C1_W2.pdf)
+<br/>
+
+- [Week 3]
+  - [Ungraded Lab - Vector Operations](/C1-Linear-Algebra/Labs/C1W3_UGL_1_vector_operations.ipynb)
+  - [Ungraded Lab - Matrix Multiplication](/C1-Linear-Algebra/Labs/C1W3_UGL_2_matrix_multiplication.ipynb)
+  - [Ungraded Lab - Linear Transformations](/C1-Linear-Algebra/Labs/C1W3_UGL_3_linear_transformations.ipynb)
+  - [Practice Quiz - Vector operations: Sum, difference, multiplication, dot product]
+  - [Graded Quiz - Vector and Matrix Operations, Types of Matrices]
+  - [Programming Assignment - Single Perceptron Neural Networks for Linear Regression](/C1-Linear-Algebra/Labs/C1W3_Assignment.ipynb)
+  - [Lecture Materials](/C1-Linear-Algebra/Slides/C1_W3.pdf)
 
 <br/>
 
-- [Week 3](/C1/w3/)
-  - [Ungraded Lab - Vector Operations](/C1/w3/lab/C1_W3_Lab_1_vector_operations.ipynb)
-  - [Ungraded Lab - Matrix Multiplication](/C1/w3/lab/C1_W3_Lab_2_matrix_multiplication.ipynb)
-  - [Ungraded Lab - Linear Transformations](/C1/w3/lab/C1_W3_Lab_3_linear_transformations.ipynb)
-  - [Practice Quiz - Vector operations: Sum, difference, multiplication, dot product](/C1/w3/pq1)
-  - [Graded Quiz - Vector and Matrix Operations, Types of Matrices](/C1/w3/q1/)
-  - [Programming Assignment - Single Perceptron Neural Networks for Linear Regression](/C1/w3/C1w3_graded_lab/)
-  - [Lecture Materials](/C1/w3/C1w3notes.pdf)
-
-<br/>
-
-- [Week 4](/C1/w4/)
-  - [Graded Quiz - Eigenvalues and Eigenvectors](/C1/w4/q1/)
-  - [Programming Assignment - Eigenvalues and Eigenvectors](/C1/w4/C1w4_graded_lab/)
-  - [Lecture Materials](/C1/w4/C1w4notes.pdf)
+- [Week 4]
+  - [Graded Quiz - Eigenvalues and Eigenvectors]
+  - [Programming Assignment - Eigenvalues and Eigenvectors](/C1-Linear-Algebra/Labs/C1W4_Assignment.ipynb)
+  - [Lecture Materials](/C1-Linear-Algebra/Slides/C1_W4.f)
 
 <br/>
 
